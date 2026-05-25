@@ -2,7 +2,7 @@
 
 ## Marketplace (recommended)
 
-Install **Sequoia Theme** from [JetBrains Marketplace](https://plugins.jetbrains.com) after publishing.
+Install **Sequoia by Michael Andreuzza** from [JetBrains Marketplace](https://plugins.jetbrains.com) after publishing.
 See `MARKETPLACE.md` for upload steps and GitHub Actions build artifacts.
 
 ## Manual import

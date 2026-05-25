@@ -1,6 +1,6 @@
 <idea-plugin>
   <id>com.michaelandreuzza.sequoia.jetbrains</id>
-  <name>Sequoia Theme</name>
+  <name>Sequoia by Michael Andreuzza</name>
   <vendor email="hello@michaelandreuzza.com" url="https://www.michaelandreuzza.com/vscode/sequoia/">Micheal Andreuzza</vendor>
   <description><![CDATA[
 <p><strong>Sequoia</strong> editor color schemes for JetBrains IDEs.</p>

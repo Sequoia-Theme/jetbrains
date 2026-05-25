@@ -23,13 +23,13 @@ Screenshots in `screenshots/` are generated previews showing each scheme's synta
 3. Open your profile menu → **Upload plugin**.
 4. Accept the **Marketplace Developer Agreement** and create a **Vendor profile** (your name or `Sequoia-Theme`).
 
-## Upload Sequoia Theme
+## Upload Sequoia by Michael Andreuzza
 
 1. Download the plugin ZIP from GitHub Actions (**Actions → Build Plugin → plugin-distribution**).
 2. On [plugins.jetbrains.com/author/me](https://plugins.jetbrains.com/author/me), click **Upload plugin**.
 3. Select the ZIP file.
 4. Fill in the listing:
-   - **Name**: Sequoia Theme
+   - **Name**: Sequoia by Michael Andreuzza
    - **Tags**: Theme, Color Scheme
    - **License**: MIT — link `https://github.com/Sequoia-Theme/jetbrains`
    - **Description**: copy from README; mention Sequoia variants
