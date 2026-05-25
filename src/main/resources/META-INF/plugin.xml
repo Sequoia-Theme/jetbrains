@@ -1,0 +1,20 @@
+<idea-plugin>
+  <id>com.michaelandreuzza.sequoia.jetbrains</id>
+  <name>Sequoia Theme</name>
+  <vendor email="hello@michaelandreuzza.com" url="https://www.michaelandreuzza.com/vscode/sequoia/">Micheal Andreuzza</vendor>
+  <description><![CDATA[
+<p><strong>Sequoia</strong> editor color schemes for JetBrains IDEs.</p>
+<p>Includes Moonlight Dark, Moonlight Light, Monochrome Dark, Monochrome Light, Retro Dark, Retro Light.</p>
+<p>Source: <a href="https://github.com/Sequoia-Theme/jetbrains">https://github.com/Sequoia-Theme/jetbrains</a></p>
+  ]]></description>
+  <depends>com.intellij.modules.lang</depends>
+  <idea-version since-build="231"/>
+  <extensions defaultExtensionNs="com.intellij">
+    <bundledColorScheme path="/colors/Sequoia Moonlight Dark" id="Sequoia Moonlight Dark"/>
+    <bundledColorScheme path="/colors/Sequoia Moonlight Light" id="Sequoia Moonlight Light"/>
+    <bundledColorScheme path="/colors/Sequoia Monochrome Dark" id="Sequoia Monochrome Dark"/>
+    <bundledColorScheme path="/colors/Sequoia Monochrome Light" id="Sequoia Monochrome Light"/>
+    <bundledColorScheme path="/colors/Sequoia Retro Dark" id="Sequoia Retro Dark"/>
+    <bundledColorScheme path="/colors/Sequoia Retro Light" id="Sequoia Retro Light"/>
+  </extensions>
+</idea-plugin>
