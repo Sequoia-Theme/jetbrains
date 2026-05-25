@@ -6,6 +6,20 @@ Elegant, minimal, and clean color palette for your tools.
 
 See other interfaces at the [official website](https://www.michaelandreuzza.com/vscode/sequoia/).
 
+## Preview
+
+| Sequoia Moonlight Dark | Sequoia Moonlight Light |
+| --- | --- |
+| ![Sequoia Moonlight Dark](screenshots/sequoia-moonlight-dark.png) | ![Sequoia Moonlight Light](screenshots/sequoia-moonlight-light.png) |
+
+| Sequoia Monochrome Dark | Sequoia Monochrome Light |
+| --- | --- |
+| ![Sequoia Monochrome Dark](screenshots/sequoia-monochrome-dark.png) | ![Sequoia Monochrome Light](screenshots/sequoia-monochrome-light.png) |
+
+| Sequoia Retro Dark | Sequoia Retro Light |
+| --- | --- |
+| ![Sequoia Retro Dark](screenshots/sequoia-retro-dark.png) | ![Sequoia Retro Light](screenshots/sequoia-retro-light.png) |
+
 ## Available themes
 
 - **Moonlight Dark** — dark
@@ -19,7 +33,7 @@ See other interfaces at the [official website](https://www.michaelandreuzza.com/
 
 Install from JetBrains Marketplace (see `MARKETPLACE.md`) or import `.icls` files manually (see `INSTALL.md`).
 
-Available files: `Sequoia Moonlight Dark.icls`, `screenshots/sequoia-moonlight-dark.png`, `Sequoia Moonlight Light.icls`, `screenshots/sequoia-moonlight-light.png`, `Sequoia Monochrome Dark.icls`, `screenshots/sequoia-monochrome-dark.png`, `Sequoia Monochrome Light.icls`, `screenshots/sequoia-monochrome-light.png`, `Sequoia Retro Dark.icls`, `screenshots/sequoia-retro-dark.png`, `Sequoia Retro Light.icls`, `screenshots/sequoia-retro-light.png`, `build.gradle.kts`, `settings.gradle.kts`, `gradle.properties`, `src/main/resources/META-INF/plugin.xml`, `src/main/resources/META-INF/pluginIcon.svg`, `MARKETPLACE.md`, `INSTALL.md`, `.gitignore`, `.github/workflows/build-plugin.yml`, `src/main/resources/colors/Sequoia Moonlight Dark.xml`, `src/main/resources/colors/Sequoia Moonlight Light.xml`, `src/main/resources/colors/Sequoia Monochrome Dark.xml`, `src/main/resources/colors/Sequoia Monochrome Light.xml`, `src/main/resources/colors/Sequoia Retro Dark.xml`, `src/main/resources/colors/Sequoia Retro Light.xml`.
+See `MARKETPLACE.md` for publishing and release steps.
 
 ## Created by
 
