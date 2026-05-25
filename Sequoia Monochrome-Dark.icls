@@ -1,0 +1,103 @@
+<scheme name="Sequoia Monochrome-Dark" version="142" parent_scheme="Darcula">
+  <meta-info>
+    <property name="created">2026-05-24</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2024.1</property>
+    <property name="modified">2026-05-24</property>
+    <property name="originalScheme">Sequoia Monochrome-Dark</property>
+  </meta-info>
+  <colors>
+    <option name="CONSOLE_BACKGROUND_KEY" value="0f1014" />
+    <option name="CARET_COLOR" value="7c829d" />
+    <option name="GUTTER_BACKGROUND" value="0f1014" />
+    <option name="SELECTION_BACKGROUND" value="817c9c" />
+    <option name="TEXT" value="868690" />
+  </colors>
+  <attributes>
+    <option name="Background">
+      <value>
+        <option name="BACKGROUND" value="0f1014" />
+      </value>
+    </option>
+    <option name="Foreground">
+      <value>
+        <option name="FOREGROUND" value="868690" />
+      </value>
+    </option>
+    <option name="Caret">
+      <value>
+        <option name="FOREGROUND" value="7c829d" />
+      </value>
+    </option>
+    <option name="SelectionBackground">
+      <value>
+        <option name="BACKGROUND" value="817c9c" />
+      </value>
+    </option>
+    <option name="Line numbers">
+      <value>
+        <option name="FOREGROUND" value="575861" />
+      </value>
+    </option>
+    <option name="Gutter background">
+      <value>
+        <option name="BACKGROUND" value="0f1014" />
+      </value>
+    </option>
+    <option name="Comment">
+      <value>
+        <option name="FOREGROUND" value="43444d" />
+      </value>
+    </option>
+    <option name="Keyword">
+      <value>
+        <option name="FOREGROUND" value="626983" />
+      </value>
+    </option>
+    <option name="String">
+      <value>
+        <option name="FOREGROUND" value="d3d5de" />
+      </value>
+    </option>
+    <option name="Number">
+      <value>
+        <option name="FOREGROUND" value="626983" />
+      </value>
+    </option>
+    <option name="Function call">
+      <value>
+        <option name="FOREGROUND" value="999eb2" />
+      </value>
+    </option>
+    <option name="Function declaration">
+      <value>
+        <option name="FOREGROUND" value="999eb2" />
+      </value>
+    </option>
+    <option name="Local variable">
+      <value>
+        <option name="FOREGROUND" value="b6bac8" />
+      </value>
+    </option>
+    <option name="Class name">
+      <value>
+        <option name="FOREGROUND" value="7c829d" />
+      </value>
+    </option>
+    <option name="Type name">
+      <value>
+        <option name="FOREGROUND" value="7c829d" />
+      </value>
+    </option>
+    <option name="Errors">
+      <value>
+        <option name="FOREGROUND" value="999eb2" />
+      </value>
+    </option>
+    <option name="Default text">
+      <value>
+        <option name="FOREGROUND" value="868690" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
